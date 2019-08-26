@@ -61,7 +61,10 @@
                 An easy to learn and use language
             </li>
             <li class="fragment fade-in">
-                One of the best languages to start with
+                Flexible and adaptable to different programming paradigms
+            </li>
+            <li class="fragment fade-in">
+                One of the best languages to start with (along with Python)
             </li>
         </ul>
     </li>
