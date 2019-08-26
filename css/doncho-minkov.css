@@ -189,6 +189,7 @@
     height: 50px;
     display: inline-block;
     background-size: 100%;
+    color: transparent !important;
 }
 
 .icon:hover:after {
@@ -198,6 +199,8 @@
     height: 50px;
     display: block;
     border-radius: 3px;
+    position: absolute;
+    top: 0;
 }
 
 .icon.leetcode {

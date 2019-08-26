@@ -14,22 +14,22 @@
             <div class="company">Software University</div>
             <ul class="social" style="list-style-type: none; margin: 0; padding: 0; display: flex;">
                 <li>
-                    <a href="https://github.com/minkov" target="_blank" class="icon github" style="margin-right: 15px"></a>
+                    <a href="https://github.com/minkov" target="_blank" class="icon github" style="margin-right: 15px">GitHub</a>
                 </li>
                 <li>
-                    <a href="https://bg.linkedin.com/in/donchominkov"  target="_blank" class="icon linkedin" style="margin-right: 15px"></a>
+                    <a href="https://bg.linkedin.com/in/donchominkov"  target="_blank" class="icon linkedin" style="margin-right: 15px">LinkedIn</a>
                 </li>
                 <li>
-                    <a href="https://www.hackerrank.com/DonchoMinkov"  target="_blank" class="icon hackerrank" style="margin-right: 15px"></a>
+                    <a href="https://www.hackerrank.com/DonchoMinkov"  target="_blank" class="icon hackerrank" style="margin-right: 15px">HackerRank</a>
                 </li>
                 <li>
-                    <a href="https://leetcode.com/doncho/"  target="_blank" class="icon leetcode" style="margin-right: 15px"></a>
+                    <a href="https://leetcode.com/doncho/"  target="_blank" class="icon leetcode" style="margin-right: 15px">LeetCode</a>
                 </li>
                 <li>
-                    <a href="mailto:donchominkov@gmail.com"  target="_blank" class="icon email"></a>
+                    <a href="mailto:donchominkov@gmail.com"  target="_blank" class="icon email">donchominkov@gmail.com</a>
                 </li>
                 <li>
-                    <a href="http://minkov.it"  target="_blank" class="icon www"></a>
+                    <a href="http://minkov.it"  target="_blank" class="icon www">https://minkov.it</a>
                 </li>
             </ul>
         </div>
@@ -183,22 +183,22 @@
             <div class="company">Software University</div>
             <ul class="social" style="list-style-type: none; margin: 0; padding: 0; display: flex;">
                 <li>
-                    <a href="https://github.com/minkov" target="_blank" class="icon github" style="margin-right: 15px"></a>
+                    <a href="https://github.com/minkov" target="_blank" class="icon github" style="margin-right: 15px">GitHub</a>
                 </li>
                 <li>
-                    <a href="https://bg.linkedin.com/in/donchominkov"  target="_blank" class="icon linkedin" style="margin-right: 15px"></a>
+                    <a href="https://bg.linkedin.com/in/donchominkov"  target="_blank" class="icon linkedin" style="margin-right: 15px">LinkedIn</a>
                 </li>
                 <li>
-                    <a href="https://www.hackerrank.com/DonchoMinkov"  target="_blank" class="icon hackerrank" style="margin-right: 15px"></a>
+                    <a href="https://www.hackerrank.com/DonchoMinkov"  target="_blank" class="icon hackerrank" style="margin-right: 15px">HackerRank</a>
                 </li>
                 <li>
-                    <a href="https://leetcode.com/doncho/"  target="_blank" class="icon leetcode" style="margin-right: 15px"></a>
+                    <a href="https://leetcode.com/doncho/"  target="_blank" class="icon leetcode" style="margin-right: 15px">LeetCode</a>
                 </li>
                 <li>
-                    <a href="mailto:donchominkov@gmail.com"  target="_blank" class="icon email"></a>
+                    <a href="mailto:donchominkov@gmail.com"  target="_blank" class="icon email">donchominkov@gmail.com</a>
                 </li>
                 <li>
-                    <a href="http://minkov.it"  target="_blank" class="icon www"></a>
+                    <a href="http://minkov.it"  target="_blank" class="icon www">https://minkov.it</a>
                 </li>
             </ul>
         </div>
