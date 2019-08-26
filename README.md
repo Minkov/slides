@@ -73,6 +73,7 @@
             <li>The front-end of the applications</li>
             <li>The back-end of the applications</li>
             <li>Mobile applications</li>
+            <li>Desktop applications</li>
         </ul>
     </li>
 </ul>
@@ -96,8 +97,9 @@
             <li class="fragment fade-in">
                 React Native
             </li>
-        </ul>
-    </li>
+            <li class="fragment fade-in">
+                Electron
+            </li>
         </ul>
     </li>
 </ul>
