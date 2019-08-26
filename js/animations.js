@@ -14,4 +14,6 @@ window.setupLiAnimations = function () {
         .removeClass('fragment fade-in');
     $('.reveal .who-am-i .compare .line:not(.header)>*:nth-child(2)')
         .removeClass('fragment fade-in');
+    $('.reveal .title-slide .social li')
+        .removeClass('fragment fade-in')
 };
