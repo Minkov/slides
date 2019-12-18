@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  slides:
+    image: minkov/slides:latest
+    ports:
+      - "8081:80"
+    environment:
+      - PORT=80
