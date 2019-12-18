@@ -1,5 +1,5 @@
 const getMarkdown = async () => {
-    const markdownUrl = `README.md?q=${Math.random()}`;
+    const markdownUrl = `/slides/${presentationName}/README.md?random=${Math.random()}`;
     const res = await fetch(markdownUrl);
     return res.text();
 }

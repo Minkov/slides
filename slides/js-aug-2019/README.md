@@ -6,7 +6,7 @@
 <div class="signature"> 
     <div class="author">
         <div class="image">
-            <img src="css/imgs/doncho-minkov.jpg"/>
+            <img src="/static/css/imgs/doncho-minkov.jpg"/>
         </div>
         <div class="text">
             <strong>Doncho Minkov</strong>
@@ -180,7 +180,7 @@
 <div class="signature"> 
     <div class="author">
         <div class="image">
-            <img src="css/imgs/doncho-minkov.jpg"/>
+            <img src="/static/css/imgs/doncho-minkov.jpg"/>
         </div>
         <div class="text">
             <strong>Doncho Minkov</strong>

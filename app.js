@@ -20,7 +20,11 @@ app.use(
 
 app.get('/', (req, res) => {
     const presentations = getSlides();
-    res.render('home', { presentations });
-});   
+    return res.render('home', { presentations });
+});
+app.get('/slides/:name', (req, res) => {
+    const { name } = req.params;
+    return res.render('slides', { name });
+});
 
 app.listen(port, () => console.log('It works!'));
