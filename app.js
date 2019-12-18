@@ -3,22 +3,24 @@ const express = require('express');
 const { port } = require('./config');
 
 const {
-    getPresentations,
-} = require('./presentation-utils');
+    getPresentations: getSlides,
+} = require('./slides-utils');
 
 const app = express();
 
+app.set('view engine', 'pug');
+
 app.use(
-    '/presentations',
-    express.static(__dirname + '/presentations'));
+    '/slides',
+    express.static(__dirname + '/slides'));
 
-const toHtmlList = (html, presentation) =>
-    `${html}<li>
-        <a href="/presentations/${presentation.dirName}">${presentation.title}</a>
-        </li>`;
+app.use(
+    '/static',
+    express.static(__dirname + '/static'));
 
-app.get('/', (req, res) =>
-    res.send(getPresentations()
-        .reduce(toHtmlList, '')));
+app.get('/', (req, res) => {
+    const presentations = getSlides();
+    res.render('home', { presentations });
+});   
 
 app.listen(port, () => console.log('It works!'));

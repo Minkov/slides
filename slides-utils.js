@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const getPresentationsDirectory = () => `${__dirname}/presentations`;
+const getPresentationsDirectory = () => `${__dirname}/slides`;
 const getPresentationPath = (dirName) =>`${getPresentationsDirectory()}/${dirName}`; 
 const getInfoFilePath = (dirName) => `${getPresentationPath(dirName)}/info.json`;
 
